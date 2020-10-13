@@ -19,7 +19,7 @@ $(document).ready(function(){
 		}
 
 		//reload the image!
-		$("img").attr("src", "http://lorempixel.com/400/200/food/")
+		$("img").attr("src", "https://loremflickr.com/400/240/food")
 	});
 
 });
